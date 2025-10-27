@@ -333,3 +333,5 @@ python caption/train.py --workers 8 --device 0 --batch 32  --data coco.yaml --im
 * [https://github.com/meituan/YOLOv6](https://github.com/meituan/YOLOv6)
 
 </details>
+#   o p j e c t _ d e t e c t i o n 2  
+ 
